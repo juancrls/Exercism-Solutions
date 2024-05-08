@@ -1,14 +1,30 @@
 using System;
 using System.Collections.Generic;
+using System.Text.RegularExpressions;
 
 public static class WordCount
 {
     public static IDictionary<string, int> CountWords(string phrase)
     {
-        var dict = new Dictionary<string, int>();
+        phrase = phrase.Trim().ToLower();
+        var regex = new Regex("\\b(?:\\w+['’]?\\w*|\\d+)\\b");
 
-        dict.Add("palavra", 1);
+        var words = regex.Matches(phrase);
+        var countedWords = new Dictionary<string, int>();
 
-        return dict;
+        for(int i = 0; i < words.Count; i++)
+        {
+            var word = words[i].Value;
+
+            if (countedWords.TryGetValue(word, out int value))
+            {
+                countedWords[word]++;
+            } else
+            {
+                countedWords.Add(word, 1);
+            }
+        }
+
+        return countedWords;
     }
 }

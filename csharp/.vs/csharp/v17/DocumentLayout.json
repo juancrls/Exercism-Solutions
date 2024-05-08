@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Exercism-Solutions\\csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{610B2A4B-E710-4756-9D8F-A627365728A0}|csharp-exercises.csproj|c:\\exercism-solutions\\csharp\\word-count\\wordcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{610B2A4B-E710-4756-9D8F-A627365728A0}|csharp-exercises.csproj|solutionrelative:word-count\\wordcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{610B2A4B-E710-4756-9D8F-A627365728A0}|csharp-exercises.csproj|c:\\exercism-solutions\\csharp\\word-count\\help.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{610B2A4B-E710-4756-9D8F-A627365728A0}|csharp-exercises.csproj|solutionrelative:word-count\\help.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610B2A4B-E710-4756-9D8F-A627365728A0}|csharp-exercises.csproj|c:\\exercism-solutions\\csharp\\word-count\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{610B2A4B-E710-4756-9D8F-A627365728A0}|csharp-exercises.csproj|solutionrelative:word-count\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{610B2A4B-E710-4756-9D8F-A627365728A0}|csharp-exercises.csproj|c:\\exercism-solutions\\csharp\\word-count\\wordcounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{610B2A4B-E710-4756-9D8F-A627365728A0}|csharp-exercises.csproj|solutionrelative:word-count\\wordcounttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{610B2A4B-E710-4756-9D8F-A627365728A0}|csharp-exercises.csproj|c:\\exercism-solutions\\csharp\\word-count\\wordcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{610B2A4B-E710-4756-9D8F-A627365728A0}|csharp-exercises.csproj|solutionrelative:word-count\\wordcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,8 +25,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "DockedWidth": 211,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,26 +90,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WordCountTests.cs",
-              "DocumentMoniker": "C:\\Exercism-Solutions\\csharp\\word-count\\WordCountTests.cs",
-              "RelativeDocumentMoniker": "word-count\\WordCountTests.cs",
-              "ToolTip": "C:\\Exercism-Solutions\\csharp\\word-count\\WordCountTests.cs",
-              "RelativeToolTip": "word-count\\WordCountTests.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAcwAwAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T19:44:13.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "WordCount.cs",
               "DocumentMoniker": "C:\\Exercism-Solutions\\csharp\\word-count\\WordCount.cs",
               "RelativeDocumentMoniker": "word-count\\WordCount.cs",
               "ToolTip": "C:\\Exercism-Solutions\\csharp\\word-count\\WordCount.cs",
               "RelativeToolTip": "word-count\\WordCount.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA0wAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-08T19:44:32.879Z",
               "EditorCaption": ""
@@ -109,12 +104,51 @@
           ]
         },
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "DockedWidth": 189,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HELP.md",
+              "DocumentMoniker": "C:\\Exercism-Solutions\\csharp\\word-count\\HELP.md",
+              "RelativeDocumentMoniker": "word-count\\HELP.md",
+              "ToolTip": "C:\\Exercism-Solutions\\csharp\\word-count\\HELP.md",
+              "RelativeToolTip": "word-count\\HELP.md",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-08T20:28:35.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Exercism-Solutions\\csharp\\word-count\\README.md",
+              "RelativeDocumentMoniker": "word-count\\README.md",
+              "ToolTip": "C:\\Exercism-Solutions\\csharp\\word-count\\README.md",
+              "RelativeToolTip": "word-count\\README.md",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-05-08T20:28:34.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WordCountTests.cs",
+              "DocumentMoniker": "C:\\Exercism-Solutions\\csharp\\word-count\\WordCountTests.cs",
+              "RelativeDocumentMoniker": "word-count\\WordCountTests.cs",
+              "ToolTip": "C:\\Exercism-Solutions\\csharp\\word-count\\WordCountTests.cs",
+              "RelativeToolTip": "word-count\\WordCountTests.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAcwGoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T19:44:13.203Z",
+              "EditorCaption": ""
             }
           ]
         }
